@@ -1,3 +1,5 @@
 print("hello")
 print("hi ! hi hi")
 print("привет,master !")
+print("hi ! hi hi")
+print("привет,master !")
